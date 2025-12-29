@@ -1,2 +1,2 @@
-selected_features: ['PPE','DFA']  
-path: "my_model.joblib" 
+features: ['PPE', 'DFA']
+path: "my_model.joblib"
